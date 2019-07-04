@@ -27,6 +27,7 @@
 
 ### Bayesian Deep Nets and Deep Gaussian Processes
 
+<div>
 <ul>
 <li> K. Cutajar, E. V. Bonilla, P. Michiardi, and M. Filippone. Random feature expansions for deep Gaussian processes. In D. Precup and Y. W. Teh, editors, Proceedings of the 34th International Conference on Machine Learning, volume 70 of Proceedings of Machine Learning Research, pages 884–893, International Convention Centre, Sydney, Australia, Aug. 2017. PMLR.
 <li> D. K. Duvenaud, O. Rippel, R. P. Adams, and Z. Ghahramani. Avoiding pathologies in very deep networks. In Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics, AISTATS 2014, Reykjavik, Iceland, April 22-25, 2014, volume 33 of JMLR Workshop and Conference Proceedings, pages 202–210. JMLR.org, 2014.
@@ -35,13 +36,14 @@
 <li> A. G. De G. Matthews, J. Hron, M. Rowland, R. E. Turner, and Z. Ghahramani. Gaussian Process Behaviour in Wide Deep Neural Networks. In International Conference on Learning Representations, 2018.
 <li> R. M. Neal. Bayesian Learning for Neural Networks (Lecture Notes in Statistics). Springer, 1 edition, Aug. 1996.
 </ul>
-
+</div>
 
 
 
 
 ### Inference for Deep Gaussian Processes
 
+<div>
 <ul>
 <li> T. D. Bui, D. Hern ́andez-Lobato, J. M. Hern ́andez-Lobato, Y. Li, and R. E. Turner. Deep Gaussian Processes for Regression using Approximate Expectation Propagation. In M.-F. Balcan and K. Q. Weinberger, editors, Proceedings of the 33nd International Conference on Machine Learning, ICML 2016, New York City, NY, USA, June 19-24, 2016, volume 48, pages 1472–1481. JMLR.org, 2016.
 <li> K. Cutajar, E. V. Bonilla, P. Michiardi, and M. Filippone. Random feature expansions for deep Gaussian processes. In D. Precup and Y. W. Teh, editors, Proceedings of the 34th International Conference on Machine Learning, volume 70 of Proceedings of Machine Learning Research, pages 884–893, International Convention Centre, Sydney, Australia, Aug. 2017. PMLR.
@@ -50,7 +52,7 @@
 <li> M. D. Hoffman. Learning deep latent Gaussian models with Markov chain Monte Carlo. In D. Precup and Y. W. Teh, editors, Proceedings of the 34th International Conference on Machine Learning, volume 70 of Proceedings of Machine Learning Research, pages 1510–1519, International Convention Centre, Sydney, Australia, Aug. 2017. PMLR.
 <li> H. Salimbeni and M. Deisenroth. Doubly Stochastic Variational Inference for Deep Gaussian Processes. In I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, editors, Advances in Neural Information Processing Systems 30, pages 4588–4599. Curran Associates, Inc., 2017.
 </ul>
-
+</div>
 
 
 
@@ -59,6 +61,7 @@
 
 ### Convolutional Nets and Gaussian Processes
 
+<div>
 <ul>
 <li> J. Bradshaw, A. G. De G. Matthews, and Z. Ghahramani. Adversarial Examples, Uncertainty, and Transfer Testing Robustness in Gaussian Process Hybrid Deep Networks, July 2017. arXiv:1707.02476.
 <li> R. Calandra, J. Peters, C. E. Rasmussen, and M. P. Deisenroth. Manifold Gaussian Processes for regression. In 2016 International Joint Conference on Neural Networks, IJCNN 2016, Vancouver, BC, Canada, July 24-29, 2016, pages 3338–3345, 2016.
@@ -67,7 +70,7 @@ G.-L. Tran, E. V. Bonilla, J. P. Cunningham, P. Michiardi, and M. Filippone. Cal
 <li> M. van der Wilk, C. E. Rasmussen, and J. Hensman. Convolutional Gaussian Processes. In I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, editors, Advances in Neural Information Processing Systems 30, pages 2849–2858. Curran Associates, Inc., 2017.
 <li> A. G. Wilson, Z. Hu, R. R. Salakhutdinov, and E. P. Xing. Stochastic Variational Deep Kernel Learning. In D. D. Lee, M. Sugiyama, U. V. Luxburg, I. Guyon, and R. Garnett, editors, Advances in Neural Information Processing Systems 29, pages 2586–2594. Curran Associates, Inc., 2016.
 </ul>
-
+</div>
 
 ### Bayesian Convolutional Nets
 <ul>
