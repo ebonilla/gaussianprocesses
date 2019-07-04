@@ -1,4 +1,6 @@
-# Tutorial on Gaussian Processes: Modern Gaussian Processes: Scalable Inference and Novel Applications
+# Tutorial on Gaussian Processes 
+
+##Modern Gaussian Processes: Scalable Inference and Novel Applications
 
 ## Table of Content
 
@@ -8,7 +10,6 @@
 <li> ## <a href="#slides">Link to Slides</a>
 <li> ## <a href="#notebooks">Notebooks</a>
 <li> ## <a href="#references">References</a>
-<li> 
 </ul>
 
 ## Presenters <a name="presenters"></a>
