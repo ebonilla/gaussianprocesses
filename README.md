@@ -1,11 +1,11 @@
 ## Table of Content
 
 <ul>
-<li> <a href="#presenters">## Presenters</a>
-<li> <a href="#abstract">## Abstract</a>
-<li> <a href="#slides">## Link to Slides</a>
-<li> <a href="#notebooks">## Notebooks</a>
-<li> <a href="#references">## References</a>
+<li> <a href="#presenters">Presenters</a>
+<li> <a href="#abstract">Abstract</a>
+<li> <a href="#slides">Link to Slides</a>
+<li> <a href="#notebooks">Notebooks</a>
+<li> <a href="#references">References</a>
 </ul>
 
 ## Presenters <a name="presenters"></a>
