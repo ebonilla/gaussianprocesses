@@ -1,29 +1,29 @@
 ## Table of Content
 
-* <a href="#presenters">Presenters</a>
-* <a href="#abstract">Abstract</a>
-* <a href="#slides">Link to Slides</a>
-* <a href="#notebooks">Notebooks</a>
-* <a href="#references">References</a>
+* [Presenters](#presenters)
+* Abstract
+* Link to Slides
+* Notebooks
+* References
 
 
-## Presenters <a name="presenters"></a>
+## Presenters
 
 
-## Abstract <a name="abstract"></a>
+## Abstract
 
 
-## Link to Slides <a name="slides"></a>
+## Link to Slides
 
 
-## Notebooks <a name="notebooks"></a>
+## Notebooks
 
 [Notebook Sampling from GP prior](notebooks/gp-priors.ipynb)
 
 [Notebook on GP Regression](notebooks/gp-inference.ipynb)
 
 
-## References <a name="references"></a>
+## References
 
 ### Bayesian Deep Nets and Deep Gaussian Processes
 
