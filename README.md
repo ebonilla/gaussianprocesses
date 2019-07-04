@@ -17,6 +17,15 @@ This tutorial will expose attendees to recent advances in GP research; describe 
 
 ## Link to Slides
 
+* [Introduction](slides/introduction.pdf)
+* [Definition of Gaussian Processes](slides/gaussian_processes.pdf)
+* [Model Approximations](slides/model_approximations.pdf)
+* [Inference](slides/inference.pdf)
+* [Challenges](slides/challenges.pdf)
+* [Theory and Code](slides/theory_code.pdf)
+
+
+
 
 ## Notebooks
 
