@@ -17,37 +17,37 @@ echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' bayesian_dnns_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Inference for Deep Gaussian Processes >references.html
+echo \#\#\# Inference for Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' inference_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Convolutional Nets and Gaussian Processes >references.html
+echo \#\#\# Convolutional Nets and Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' convnets_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Bayesian Convolutional Nets >references.html
+echo \#\#\# Bayesian Convolutional Nets >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' bayesian_convnets.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Calibration of \(Bayesian\) Convolutional Nets >references.html
+echo \#\#\# Calibration of \(Bayesian\) Convolutional Nets >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' calibration_bayesian_convnets.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Random Feature Expansions for Shallow and Deep Gaussian Processes >references.html
+echo \#\#\# Random Feature Expansions for Shallow and Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' random_features_gps_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Variational Inference >references.html
+echo \#\#\# Variational Inference >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' variational_inference.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Unsupervised learning with Deep Gaussian Processes >references.html
+echo \#\#\# Unsupervised learning with Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' unsupervised_gps_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
