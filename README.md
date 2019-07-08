@@ -36,4 +36,4 @@ This tutorial will expose attendees to recent advances in GP research; describe 
 
 ## References
 
-<div w3-include-html="references/references.html"></div>
+<link rel="import" href="references/references.html">
