@@ -9,6 +9,19 @@
 
 ## Presenters
 
+<b>Edwin V. Bonilla</b>
+
+<div style="float:right;">
+<img width="120" src="authors/edwin.jpeg" alt="Photo Edwin" border="0">
+</div>
+
+
+<p>
+Edwin V. Bonilla ... 
+</p>
+
+
+
 <b>Maurizio Filippone</b>
 
 <div style="float:right;">
