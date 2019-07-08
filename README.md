@@ -24,7 +24,7 @@ In 2007, he was a Research Scholar with George Mason University, Fairfax, VA.
   His current research interests include the development of tractable and scalable Bayesian inference techniques for nonparametric statistical models with applications in environmental and life sciences.
 </p>
 
-<div float: right>
+<div>
 <img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
 </div>
 
