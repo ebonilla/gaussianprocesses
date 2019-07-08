@@ -53,6 +53,5 @@ perl -pe's|<p>|<li>|' unsupervised_gps_dgps.html | perl -pe's|</p>|</li>|' >>ref
 echo \<\/ul\> >>references.html
 
 
-## Put everything together
-cat ../README_HEAD.md >../README.md
-cat references.html >>../README.md
+cd ..
+sh update_README.sh

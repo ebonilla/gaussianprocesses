@@ -10,6 +10,12 @@
 ## Presenters
 
 <b>Maurizio Filippone</b>
+
+<div float: right;>
+<img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
+</div>
+
+
 <p>
 Maurizio Filippone received a Master&#39;s degree in Physics and a Ph.D. in Computer Science from the University of Genova, Italy, in 2004 and 2008, respectively. 
 </p>
@@ -24,9 +30,6 @@ In 2007, he was a Research Scholar with George Mason University, Fairfax, VA.
   His current research interests include the development of tractable and scalable Bayesian inference techniques for nonparametric statistical models with applications in environmental and life sciences.
 </p>
 
-<div>
-<img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
-</div>
 
 
 ## Abstract
