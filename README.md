@@ -11,7 +11,7 @@
 
 <b>Maurizio Filippone</b>
 
-<div float: right;>
+<div style="float:right;">
 <img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
 </div>
 
