@@ -9,6 +9,25 @@
 
 ## Presenters
 
+<b>Maurizio Filippone</b>
+<p>
+Maurizio Filippone received a Master&#39;s degree in Physics and a Ph.D. in Computer Science from the University of Genova, Italy, in 2004 and 2008, respectively. 
+</p>
+
+<p>
+In 2007, he was a Research Scholar with George Mason University, Fairfax, VA. 
+  From 2008 to 2011, he was a Research Associate with the University of Sheffield, U.K. (2008-2009), with the University of Glasgow, U.K. (2010), and with University College London, U.K (2011). 
+  From 2011 to 2015 he was a Lecturer at the University of Glasgow, U.K, and he is currently AXA Chair of Computational Statistics and Associate Professor at EURECOM, Sophia Antipolis, France. 
+</p>
+
+<p>
+  His current research interests include the development of tractable and scalable Bayesian inference techniques for nonparametric statistical models with applications in environmental and life sciences.
+</p>
+
+<div float: right>
+<img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
+</div>
+
 
 ## Abstract
 
