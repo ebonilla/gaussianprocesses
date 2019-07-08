@@ -41,15 +41,15 @@ This tutorial will expose attendees to recent advances in GP research; describe 
 
 
 
-<li><p><a name="Matthews18"></a>
+<li><a name="Matthews18"></a>
 
 De, J.&nbsp;Hron, M.&nbsp;Rowland, R.&nbsp;E. Turner, and Z.&nbsp;Ghahramani.
  Gaussian Process Behaviour in Wide Deep Neural Networks.
  In <em>International Conference on Learning Representations</em>, 2018.
 
-</li></p>
+</li>
 
-<li><p><a name="Cutajar17"></a>
+<li><a name="Cutajar17"></a>
 
 K.&nbsp;Cutajar, E.&nbsp;V. Bonilla, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
  Random feature expansions for deep Gaussian processes.
@@ -58,9 +58,9 @@ K.&nbsp;Cutajar, E.&nbsp;V. Bonilla, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
   of Machine Learning Research</em>, pages 884--893, International Convention
   Centre, Sydney, Australia, Aug. 2017. PMLR.
 
-</li></p>
+</li>
 
-<li><p><a name="Gal16"></a>
+<li><a name="Gal16"></a>
 
 Y.&nbsp;Gal and Z.&nbsp;Ghahramani.
  Dropout As a Bayesian Approximation: Representing Model Uncertainty
@@ -69,9 +69,9 @@ Y.&nbsp;Gal and Z.&nbsp;Ghahramani.
   International Conference on Machine Learning - Volume 48</em>, ICML'16, pages
   1050--1059. JMLR.org, 2016.
 
-</li></p>
+</li>
 
-<li><p><a name="Duvenaud14"></a>
+<li><a name="Duvenaud14"></a>
 
 D.&nbsp;K. Duvenaud, O.&nbsp;Rippel, R.&nbsp;P. Adams, and Z.&nbsp;Ghahramani.
  Avoiding pathologies in very deep networks.
@@ -80,13 +80,13 @@ D.&nbsp;K. Duvenaud, O.&nbsp;Rippel, R.&nbsp;P. Adams, and Z.&nbsp;Ghahramani.
   April 22-25, 2014</em>, volume&nbsp;33 of <em>JMLR Workshop and Conference
   Proceedings</em>, pages 202--210. JMLR.org, 2014.
 
-</li></p>
+</li>
 
-<li><p><a name="Neal96"></a>
+<li><a name="Neal96"></a>
 
 R.&nbsp;M. Neal.
  <em>Bayesian Learning for Neural Networks (Lecture Notes in
   Statistics)</em>.
  Springer, 1 edition, Aug. 1996.
 
-</li></p></ul>
+</li></ul>
