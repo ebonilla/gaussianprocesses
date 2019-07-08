@@ -38,6 +38,7 @@ This tutorial will expose attendees to recent advances in GP research; describe 
 
 <link rel="import" href="references/references.html">
 ### Bayesian Deep Nets and Deep Gaussian Processes
+<ul>
 
 
 
