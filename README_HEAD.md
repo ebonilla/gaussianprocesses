@@ -21,7 +21,7 @@ Edwin V. Bonilla received a Master&#39;s degree in Artificial Intelligence and a
 </p>
 
 <p>
-He worked at the University of Edinburgh as a Research Associate from 2008 to 2009. He then moved to National ICT Australia  as a machine-learning researcher, while also being an adjunct research fellow at the Australian National University. He worked as a Senior Lecturer at UNSW Sydney from 2014 to 2018. He now works as a principal research scientist at CSIRO's Data61 (Australia). 
+He worked at the University of Edinburgh as a Research Associate from 2008 to 2009. He then moved to National ICT Australia  as a machine-learning researcher, while also being an adjunct research fellow at the Australian National University (2010-2014). He worked as a Senior Lecturer at UNSW Sydney from 2014 to 2018. He now works as a principal research scientist at CSIRO's Data61 (Australia). 
 </p>
 
 <p>
