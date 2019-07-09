@@ -17,15 +17,15 @@
 
 
 <p>
-Edwin V. Bonilla ... 
+Edwin V. Bonilla received a Master&#39;s degree in Artificial Intelligence and a PhD in Informatics at the University of Edinburgh (UK) in 2004 and 2008, respectively. 
 </p>
 
 <p>
-Edwin V. Bonilla ... 
+He worked at the University of Edinburgh as a Research Associate from 2008 to 2009. He then moved to National ICT Australia  as a machine-learning researcher, while also being an adjunct research fellow at the Australian National University. He worked as a Senior Lecturer at UNSW Sydney from 2014 to 2018. He now works as a principal research scientist at CSIRO's Data61 (Australia). 
 </p>
 
 <p>
-Edwin V. Bonilla ... 
+Edwin's more recent work and interests are in the areas of generic and efficient inference for models with Gaussian process priors and general likelihoods; deep Gaussian processes; probabilistic methods for network-structure discovery; doubly stochastic Poisson process models; graph neural networks; and inference in implicit probabilistic models.
 </p>
 
 
