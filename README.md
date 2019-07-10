@@ -9,7 +9,7 @@
 
 ## Presenters
 
-<b>Edwin V. Bonilla</b>
+<b><a href="http://ebonilla.github.io" target="_blank">Edwin V. Bonilla</a></b>
 
 <div style="float:right;">
 <img width="120" src="authors/edwin.jpeg" alt="Photo Edwin" border="0">
@@ -31,7 +31,7 @@ Edwin's more recent work and interests are in the areas of generic and efficient
 
 
 
-<b>Maurizio Filippone</b>
+<b><a href="http://www.eurecom.fr/~filippon/index.html" target="_blank">Maurizio Filippone</a></b>
 
 <div style="float:right;">
 <img width="120" src="authors/maurizio.jpeg" alt="Photo Maurizio" border="0">
