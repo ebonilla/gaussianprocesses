@@ -12,21 +12,21 @@ bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywo
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/unsupervised_gps_dgps -o html_pieces/unsupervised_gps_dgps clean_biblio.bib
 
 
-echo "* [Bayesian Deep Nets and Deep Gaussian Processes](###bayesiandeepnetsanddeepgaussianprocesses)" >references.html
+echo "* [Bayesian Deep Nets and Deep Gaussian Processes](#bayesian-deep-nets-and-deep-gaussian-processes)" >references.html
 echo "" >>references.html
-echo "* [Inference for Deep Gaussian Processes](###inferencefordeepgaussianprocesses)" >>references.html
+echo "* [Inference for Deep Gaussian Processes](#inference-for-deep-gaussian-processes)" >>references.html
 echo "" >>references.html
-echo "* [Convolutional Nets and Gaussian Processes](###convolutionalnetsandgaussianprocesses)" >>references.html
+echo "* [Convolutional Nets and Gaussian Processes](#convolutional-nets-and-gaussian-processes)" >>references.html
 echo "" >>references.html
-echo "* [Bayesian Convolutional Nets](###bayesianconvolutionalnets)" >>references.html
+echo "* [Bayesian Convolutional Nets](#bayesian-convolutional-nets)" >>references.html
 echo "" >>references.html
-echo "* [Calibration of Bayesian Convolutional Nets](###calibrationofbayesianconvolutionalnets)" >>references.html
+echo "* [Calibration of Bayesian Convolutional Nets](#calibration-of-bayesian-convolutional-nets)" >>references.html
 echo "" >>references.html
-echo "* [Random Feature Expansions for Shallow and Deep Gaussian Processes](###randomfeatureexpansionsforshallowanddeepgaussianprocesses)" >>references.html
+echo "* [Random Feature Expansions for Shallow and Deep Gaussian Processes](#random-feature-expansions-for-shallow-and-deep-gaussian-processes)" >>references.html
 echo "" >>references.html
-echo "* [Variational Inference](###variationalinference)" >>references.html
+echo "* [Variational Inference](#variational-inference)" >>references.html
 echo "" >>references.html
-echo "* [Unsupervised learning with Deep Gaussian Processes](###unsupervisedlearningwithdeepgaussianprocesses)" >>references.html
+echo "* [Unsupervised learning with Deep Gaussian Processes](#unsupervised-learning-with-deep-gaussian-processes)" >>references.html
 echo "" >>references.html
 echo "" >>references.html
 
