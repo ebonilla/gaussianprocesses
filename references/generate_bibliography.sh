@@ -12,7 +12,10 @@ bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywo
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/unsupervised_gps_dgps -o html_pieces/unsupervised_gps_dgps clean_biblio.bib
 
 
-echo \#\#\# Bayesian Deep Nets and Deep Gaussian Processes >references.html
+echo \* \[Bayesian Deep Nets and Deep Gaussian Processes\]\(\#bayesiandeepnetsanddeepgaussianprocesses\) >references.html
+
+
+echo \#\#\# Bayesian Deep Nets and Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/bayesian_dnns_dgps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html

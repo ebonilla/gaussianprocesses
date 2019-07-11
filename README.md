@@ -91,6 +91,7 @@ We would like to thank Simone Rossi and Jonas Wacker for their help in preparing
 
 <link rel="import" href="references/references.html">
 
+* [Bayesian Deep Nets and Deep Gaussian Processes](#bayesiandeepnetsanddeepgaussianprocesses)
 ### Bayesian Deep Nets and Deep Gaussian Processes
 <ul>
 
