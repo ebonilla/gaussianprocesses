@@ -177,9 +177,10 @@ M.&nbsp;D. Hoffman.
 
 M.&nbsp;Havasi, J.&nbsp;M. Hern&aacute;ndez-Lobato, and J.&nbsp;J. Murillo-Fuentes.
  Inference in Deep Gaussian Processes using Stochastic Gradient
-  Hamiltonian Monte Carlo, June 2018.
- arXiv:1806.05490.
-[&nbsp;<a href="http://arxiv.org/abs/1806.05490">arXiv</a>&nbsp;]
+  Hamiltonian Monte Carlo.
+ In S.&nbsp;Bengio, H.&nbsp;Wallach, H.&nbsp;Larochelle, K.&nbsp;Grauman, N.&nbsp;Cesa-Bianchi,
+  and R.&nbsp;Garnett, editors, <em>Advances in Neural Information Processing
+  Systems 31</em>, pages 7506--7516. Curran Associates, Inc., 2018.
 
 </li>
 
