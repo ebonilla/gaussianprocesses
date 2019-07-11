@@ -231,15 +231,6 @@ J.&nbsp;Hensman and N.&nbsp;D. Lawrence.
 
 
 
-<li><a name="Tran18"></a>
-
-G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;P. Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
- Calibrating Deep Convolutional Gaussian Processes, May 2018.
- arXiv:1805.10522.
-[&nbsp;<a href="http://arxiv.org/abs/1805.10522">arXiv</a>&nbsp;]
-
-</li>
-
 <li><a name="Kumar18"></a>
 
 V.&nbsp;Kumar, V.&nbsp;Singh, P.&nbsp;K. Srijith, and A.&nbsp;Damianou.
@@ -293,6 +284,16 @@ A.&nbsp;G. Wilson, Z.&nbsp;Hu, R.&nbsp;R. Salakhutdinov, and E.&nbsp;P. Xing.
 
 
 
+<li><a name="Tran19"></a>
+
+G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
+ Calibrating deep convolutional gaussian processes.
+ In K.&nbsp;Chaudhuri and M.&nbsp;Sugiyama, editors, <em>Proceedings of Machine
+  Learning Research</em>, volume&nbsp;89 of <em>Proceedings of Machine Learning
+  Research</em>, pages 1554--1563. PMLR, 16--18 Apr 2019.
+
+</li>
+
 <li><a name="Laumann18"></a>
 
 F.&nbsp;Laumann, K.&nbsp;Shridhar, and A.&nbsp;L. Maurin.
@@ -326,12 +327,13 @@ Y.&nbsp;Gal and Z.&nbsp;Ghahramani.
 
 
 
-<li><a name="Tran18"></a>
+<li><a name="Tran19"></a>
 
-G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;P. Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
- Calibrating Deep Convolutional Gaussian Processes, May 2018.
- arXiv:1805.10522.
-[&nbsp;<a href="http://arxiv.org/abs/1805.10522">arXiv</a>&nbsp;]
+G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
+ Calibrating deep convolutional gaussian processes.
+ In K.&nbsp;Chaudhuri and M.&nbsp;Sugiyama, editors, <em>Proceedings of Machine
+  Learning Research</em>, volume&nbsp;89 of <em>Proceedings of Machine Learning
+  Research</em>, pages 1554--1563. PMLR, 16--18 Apr 2019.
 
 </li>
 
