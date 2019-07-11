@@ -30,15 +30,15 @@ echo "* [Random Feature Expansions for Shallow and Deep Gaussian Processes](#ran
 echo "" >>references.html
 echo "* [Variational Inference](#variational-inference)" >>references.html
 echo "" >>references.html
-echo "* [Variational Inference for Gaussian Process Models](#variational-inference-gps)" >>references.html
+echo "* [Variational Inference for Gaussian Process Models](#variational-inference-for-gaussian-process-models)" >>references.html
 echo "" >>references.html
 echo "* [Unsupervised learning with Deep Gaussian Processes](#unsupervised-learning-with-deep-gaussian-processes)" >>references.html
 echo "" >>references.html
-echo "* [Multi-task Learning with Gaussian Processes](#mtl-gps)" >>references.html
+echo "* [Multi-task Learning with Gaussian Processes](#multi-task-learning-with-gaussian-processes)" >>references.html
 echo "" >>references.html
-echo "* [Bayesian Optimization](#bo)" >>references.html
+echo "* [Bayesian Optimization](#bayesian-optimization)" >>references.html
 echo "" >>references.html
-echo "* [Other GP and DGP Models](#other-gp-dgp-models)" >>references.html
+echo "* [Other GP and DGP Models](#other-gp-and-dgp-models)" >>references.html
 echo "" >>references.html
 
 echo "" >>references.html

@@ -105,15 +105,15 @@ We would like to thank Simone Rossi and Jonas Wacker for their help in preparing
 
 * [Variational Inference](#variational-inference)
 
-* [Variational Inference for Gaussian Process Models](#variational-inference-gps)
+* [Variational Inference for Gaussian Process Models](#variational-inference-for-gaussian-process-models)
 
 * [Unsupervised learning with Deep Gaussian Processes](#unsupervised-learning-with-deep-gaussian-processes)
 
-* [Multi-task Learning with Gaussian Processes](#mtl-gps)
+* [Multi-task Learning with Gaussian Processes](#multi-task-learning-with-gaussian-processes)
 
-* [Bayesian Optimization](#bo)
+* [Bayesian Optimization](#bayesian-optimization)
 
-* [Other GP and DGP Models](#other-gp-dgp-models)
+* [Other GP and DGP Models](#other-gp-and-dgp-models)
 
 
 ### Bayesian Deep Nets and Deep Gaussian Processes
@@ -546,7 +546,7 @@ Z.&nbsp;Dai, A.&nbsp;Damianou, J.&nbsp;Gonz&aacute;lez, and N.&nbsp;Lawrence.
 N.&nbsp;Lawrence.
  Probabilistic non-linear principal component analysis with Gaussian
   process latent variable models.
- 6:1783--1816, 2005.
+ <em>Journal of Machine Learning Research</em>, 6:1783--1816, 2005.
 
 </li>
 
@@ -584,7 +584,7 @@ E.&nbsp;V. Bonilla, K.&nbsp;M.&nbsp;A. Chai, and C.&nbsp;K.&nbsp;I. Williams.
 M.&nbsp;A. &Aacute;lvarez and N.&nbsp;D. Lawrence.
  Computationally efficient convolved multiple output Gaussian
   processes.
- 12(5):1459--1500, 2011.
+ <em>Journal of Machine Learning Research</em>, 12(5):1459--1500, 2011.
 
 </li>
 
