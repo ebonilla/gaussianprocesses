@@ -10,6 +10,7 @@ This tutorial will expose attendees to recent advances in GP research; describe 
 * [Link to Slides](#link-to-slides)
 * [Notebooks](#notebooks)
 * [References](#references)
+* [Acknowledgements](#acknowledgements)
 
 
 ## Presenters
@@ -82,6 +83,11 @@ In 2007, he was a Research Scholar with George Mason University, Fairfax, VA.
 ## References
 
 <link rel="import" href="references/references.html">
+
+
+## Acknowledgements
+
+We would like to thank Simone Rossi and Jonas Wacker for their help in preparing the jupyter notebooks.
 ### Bayesian Deep Nets and Deep Gaussian Processes
 <ul>
 
