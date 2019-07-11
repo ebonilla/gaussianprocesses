@@ -91,21 +91,21 @@ We would like to thank Simone Rossi and Jonas Wacker for their help in preparing
 
 <link rel="import" href="references/references.html">
 
-* [Bayesian Deep Nets and Deep Gaussian Processes](#bayesiandeepnetsanddeepgaussianprocesses)
+* [Bayesian Deep Nets and Deep Gaussian Processes](###bayesiandeepnetsanddeepgaussianprocesses)
 
-* [Inference for Deep Gaussian Processes](#inferencefordeepgaussianprocesses)
+* [Inference for Deep Gaussian Processes](###inferencefordeepgaussianprocesses)
 
-* [Convolutional Nets and Gaussian Processes](#convolutionalnetsandgaussianprocesses)
+* [Convolutional Nets and Gaussian Processes](###convolutionalnetsandgaussianprocesses)
 
-* [Bayesian Convolutional Nets](#bayesianconvolutionalnets)
+* [Bayesian Convolutional Nets](###bayesianconvolutionalnets)
 
-* [Calibration of Bayesian Convolutional Nets](#calibrationofbayesianconvolutionalnets)
+* [Calibration of Bayesian Convolutional Nets](###calibrationofbayesianconvolutionalnets)
 
-* [Random Feature Expansions for Shallow and Deep Gaussian Processes](#randomfeatureexpansionsforshallowanddeepgaussianprocesses)
+* [Random Feature Expansions for Shallow and Deep Gaussian Processes](###randomfeatureexpansionsforshallowanddeepgaussianprocesses)
 
-* [Variational Inference](#variationalinference)
+* [Variational Inference](###variationalinference)
 
-* [Unsupervised learning with Deep Gaussian Processes](#unsupervisedlearningwithdeepgaussianprocesses)
+* [Unsupervised learning with Deep Gaussian Processes](###unsupervisedlearningwithdeepgaussianprocesses)
 
 
 ### Bayesian Deep Nets and Deep Gaussian Processes
