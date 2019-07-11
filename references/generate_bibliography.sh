@@ -11,8 +11,11 @@ bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywo
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/variational_inference -o html_pieces/variational_inference clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/variational_inference_gps -o html_pieces/variational_inference_gps clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/unsupervised_gps_dgps -o html_pieces/unsupervised_gps_dgps clean_biblio.bib
-
-
+bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/mtl_gps -o html_pieces/mtl_gps clean_biblio.bib
+bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/bayesian_optimization -o html_pieces/bayesian_optimization clean_biblio.bib
+bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/other_gp_dgp_models -o html_pieces/other_gp_dgp_models  clean_biblio.bib
+ 
+echo "" >>references.html
 echo "* [Bayesian Deep Nets and Deep Gaussian Processes](#bayesian-deep-nets-and-deep-gaussian-processes)" >references.html
 echo "" >>references.html
 echo "* [Inference for Deep Gaussian Processes](#inference-for-deep-gaussian-processes)" >>references.html
@@ -27,8 +30,17 @@ echo "* [Random Feature Expansions for Shallow and Deep Gaussian Processes](#ran
 echo "" >>references.html
 echo "* [Variational Inference](#variational-inference)" >>references.html
 echo "" >>references.html
+echo "* [Variational Inference for Gaussian Process Models](#variational-inference-gps)" >>references.html
+echo "" >>references.html
 echo "* [Unsupervised learning with Deep Gaussian Processes](#unsupervised-learning-with-deep-gaussian-processes)" >>references.html
 echo "" >>references.html
+echo "* [Multi-task Learning with Gaussian Processes](#mtl-gps)" >>references.html
+echo "" >>references.html
+echo "* [Bayesian Optimization](#bo)" >>references.html
+echo "" >>references.html
+echo "* [Other GP and DGP Models](#other-gp-dgp-models)" >>references.html
+echo "" >>references.html
+
 echo "" >>references.html
 
 
@@ -72,11 +84,24 @@ echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/variational_inference_gps.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-
-
 echo \#\#\# Unsupervised learning with Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/unsupervised_gps_dgps.html | perl -pe's|</p>|</li>|' >>references.html
+echo \<\/ul\> >>references.html
+
+echo \#\#\# Multi-task Learning with Gaussian Processes >>references.html
+echo \<ul\> >>references.html
+perl -pe's|<p>|<li>|' html_pieces/mtl_gps.html | perl -pe's|</p>|</li>|' >>references.html
+echo \<\/ul\> >>references.html
+
+echo \#\#\# Bayesian Optimization  >>references.html
+echo \<ul\> >>references.html
+perl -pe's|<p>|<li>|' html_pieces/bayesian_optimization.html | perl -pe's|</p>|</li>|' >>references.html
+echo \<\/ul\> >>references.html
+
+echo \#\#\# Other GP and DGP Models  >>references.html
+echo \<ul\> >>references.html
+perl -pe's|<p>|<li>|' html_pieces/other_gp_dgp_models.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
 

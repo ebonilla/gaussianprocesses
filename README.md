@@ -105,7 +105,15 @@ We would like to thank Simone Rossi and Jonas Wacker for their help in preparing
 
 * [Variational Inference](#variational-inference)
 
+* [Variational Inference for Gaussian Process Models](#variational-inference-gps)
+
 * [Unsupervised learning with Deep Gaussian Processes](#unsupervised-learning-with-deep-gaussian-processes)
+
+* [Multi-task Learning with Gaussian Processes](#mtl-gps)
+
+* [Bayesian Optimization](#bo)
+
+* [Other GP and DGP Models](#other-gp-dgp-models)
 
 
 ### Bayesian Deep Nets and Deep Gaussian Processes
@@ -530,5 +538,257 @@ R.&nbsp;Domingues, P.&nbsp;Michiardi, J.&nbsp;Zouaoui, and M.&nbsp;Filippone.
 
 Z.&nbsp;Dai, A.&nbsp;Damianou, J.&nbsp;Gonz&aacute;lez, and N.&nbsp;Lawrence.
  Variational Auto-encoded Deep Gaussian Processes, Feb. 2016.
+
+</li>
+
+<li><a name="lawrence-jmlr-2005"></a>
+
+N.&nbsp;Lawrence.
+ Probabilistic non-linear principal component analysis with Gaussian
+  process latent variable models.
+ 6:1783--1816, 2005.
+
+</li>
+
+<li><a name="Grochow:2004"></a>
+
+K.&nbsp;Grochow, S.&nbsp;L. Martin, A.&nbsp;Hertzmann, and Z.&nbsp;Popovi&#x107;.
+ Style-based inverse kinematics.
+ In <em>ACM SIGGRAPH 2004 Papers</em>, SIGGRAPH '04, pages 522--531, New
+  York, NY, USA, 2004. ACM.
+
+</li></ul>
+### Multi-task Learning with Gaussian Processes
+<ul>
+
+
+
+<li><a name="chai2008multi"></a>
+
+K.&nbsp;M.&nbsp;A. Chai, C.&nbsp;K. Williams, S.&nbsp;Klanke, and S.&nbsp;Vijayakumar.
+ Multi-task Gaussian process learning of robot inverse dynamics.
+ In <em>Advances in Neural Processing Systems</em>, pages 265--272, 2008.
+
+</li>
+
+<li><a name="bonilla-et-al-nips-08"></a>
+
+E.&nbsp;V. Bonilla, K.&nbsp;M.&nbsp;A. Chai, and C.&nbsp;K.&nbsp;I. Williams.
+ Multi-task Gaussian process prediction.
+ In <em>Advances in Neural Processing Systems</em>, 2008.
+
+</li>
+
+<li><a name="alvarez2011computationally"></a>
+
+M.&nbsp;A. &Aacute;lvarez and N.&nbsp;D. Lawrence.
+ Computationally efficient convolved multiple output Gaussian
+  processes.
+ 12(5):1459--1500, 2011.
+
+</li>
+
+<li><a name="wilson-et-al-icml-12"></a>
+
+A.&nbsp;G. Wilson, D.&nbsp;A. Knowles, and Z.&nbsp;Ghahramani.
+ Gaussian process regression networks.
+ In <em>International Conference on Machine Learning</em>, 2012.
+
+</li>
+
+<li><a name="boyle2007gaussian"></a>
+
+P.&nbsp;Boyle.
+ <em>Gaussian Processes for Regression and Optimisation</em>.
+ PhD thesis, Victoria University of Wellington, 2007.
+
+</li></ul>
+### Bayesian Optimization
+<ul>
+
+
+
+<li><a name="Jones2001"></a>
+
+D.&nbsp;R. Jones.
+ A Taxonomy of Global Optimization Methods Based on Response
+  Surfaces.
+ <em>Journal of Global Optimization</em>, 21(4):345--383, 2001.
+
+</li>
+
+<li><a name="snoek2012practical"></a>
+
+J.&nbsp;Snoek, H.&nbsp;Larochelle, and R.&nbsp;P. Adams.
+ Practical bayesian optimization of machine learning algorithms.
+ In <em>Advances in neural information processing systems</em>, pages
+  2951--2959, 2012.
+
+</li>
+
+<li><a name="chu2005preference"></a>
+
+W.&nbsp;Chu and Z.&nbsp;Ghahramani.
+ Preference learning with gaussian processes.
+ In <em>Proceedings of the 22nd international conference on Machine
+  learning</em>, pages 137--144. ACM, 2005.
+
+</li>
+
+<li><a name="swersky2013multi"></a>
+
+K.&nbsp;Swersky, J.&nbsp;Snoek, and R.&nbsp;P. Adams.
+ Multi-task bayesian optimization.
+ In <em>Advances in neural information processing systems</em>, pages
+  2004--2012, 2013.
+
+</li></ul>
+### Other GP and DGP Models
+<ul>
+
+
+
+<li><a name="Domingues18"></a>
+
+R.&nbsp;Domingues, P.&nbsp;Michiardi, J.&nbsp;Zouaoui, and M.&nbsp;Filippone.
+ Deep Gaussian process autoencoders for novelty detection.
+ <em>Machine Learning</em>, 107(8-10):1363--1383, 2018.
+
+</li>
+
+<li><a name="VanDerWilk17"></a>
+
+M.&nbsp;van&nbsp;der Wilk, C.&nbsp;E. Rasmussen, and J.&nbsp;Hensman.
+ Convolutional Gaussian Processes.
+ In I.&nbsp;Guyon, U.&nbsp;V. Luxburg, S.&nbsp;Bengio, H.&nbsp;Wallach, R.&nbsp;Fergus,
+  S.&nbsp;Vishwanathan, and R.&nbsp;Garnett, editors, <em>Advances in Neural Information
+  Processing Systems 30</em>, pages 2849--2858. Curran Associates, Inc., 2017.
+
+</li>
+
+<li><a name="LorenziNeuroImage17"></a>
+
+M.&nbsp;Lorenzi, M.&nbsp;Filippone, G.&nbsp;B. Frisoni, D.&nbsp;C. Alexander, and S.&nbsp;Ourselin.
+ Probabilistic disease progression modeling to characterize diagnostic
+  uncertainty: staging and prediction in Alzheimer's disease.
+ <em>NeuroImage</em>, 2017.
+ to appear.
+
+</li>
+
+<li><a name="Dai15"></a>
+
+Z.&nbsp;Dai, A.&nbsp;Damianou, J.&nbsp;Gonz&aacute;lez, and N.&nbsp;Lawrence.
+ Variational Auto-encoded Deep Gaussian Processes, Feb. 2016.
+
+</li>
+
+<li><a name="blomqvist2018deep"></a>
+
+K.&nbsp;Blomqvist, S.&nbsp;Kaski, and M.&nbsp;Heinonen.
+ Deep convolutional gaussian processes.
+ <em>arXiv preprint arXiv:1810.03052</em>, 2018.
+
+</li>
+
+<li><a name="pmlr-v54-galliani17a"></a>
+
+P.&nbsp;Galliani, A.&nbsp;Dezfouli, E.&nbsp;Bonilla, and N.&nbsp;Quadrianto.
+ Gray-box inference for structured Gaussian process models.
+ In A.&nbsp;Singh and J.&nbsp;Zhu, editors, <em>Proceedings of the 20th
+  International Conference on Artificial Intelligence and Statistics</em>,
+  volume&nbsp;54 of <em>Proceedings of Machine Learning Research</em>, pages 353--361,
+  Fort Lauderdale, FL, USA, 20--22 Apr 2017. PMLR.
+
+</li>
+
+<li><a name="linderman2014discovering"></a>
+
+S.&nbsp;Linderman and R.&nbsp;Adams.
+ Discovering latent network structure in point process data.
+ In <em>International Conference on Machine Learning</em>, pages
+  1413--1421, 2014.
+
+</li>
+
+<li><a name="pmlr-v80-dezfouli18a"></a>
+
+A.&nbsp;Dezfouli, E.&nbsp;Bonilla, and R.&nbsp;Nock.
+ Variational network inference: Strong and stable with concrete
+  support.
+ In J.&nbsp;Dy and A.&nbsp;Krause, editors, <em>Proceedings of the 35th
+  International Conference on Machine Learning</em>, volume&nbsp;80 of <em>Proceedings
+  of Machine Learning Research</em>, pages 1204--1213, Stockholmsmässan, Stockholm
+  Sweden, 10--15 Jul 2018. PMLR.
+
+</li>
+
+<li><a name="kuss2004gaussian"></a>
+
+M.&nbsp;Kuss and C.&nbsp;E. Rasmussen.
+ Gaussian processes in reinforcement learning.
+ In <em>Advances in neural information processing systems</em>, pages
+  751--758, 2004.
+
+</li>
+
+<li><a name="engel2005reinforcement"></a>
+
+Y.&nbsp;Engel, S.&nbsp;Mannor, and R.&nbsp;Meir.
+ Reinforcement learning with gaussian processes.
+ In <em>Proceedings of the 22nd international conference on Machine
+  learning</em>, pages 201--208. ACM, 2005.
+
+</li>
+
+<li><a name="deisenroth2011pilco"></a>
+
+M.&nbsp;Deisenroth and C.&nbsp;E. Rasmussen.
+ Pilco: A model-based and data-efficient approach to policy search.
+ In <em>Proceedings of the 28th International Conference on machine
+  learning (ICML-11)</em>, pages 465--472, 2011.
+
+</li>
+
+<li><a name="martin2018recursive"></a>
+
+J.&nbsp;Martin and B.&nbsp;Englot.
+ Recursive sparse pseudo-input gaussian process sarsa.
+ <em>arXiv preprint arXiv:1811.07201</em>, 2018.
+
+</li>
+
+<li><a name="adams2009tractable"></a>
+
+R.&nbsp;P. Adams, I.&nbsp;Murray, and D.&nbsp;J. MacKay.
+ Tractable nonparametric bayesian inference in poisson processes with
+  gaussian process intensities.
+ In <em>Proceedings of the 26th Annual International Conference on
+  Machine Learning</em>, pages 9--16. ACM, 2009.
+
+</li>
+
+<li><a name="lloyd-icml-2015"></a>
+
+C.&nbsp;Lloyd, T.&nbsp;Gunter, M.&nbsp;A. Osborne, and S.&nbsp;J. Roberts.
+ Variational Inference for Gaussian Process Modulated Poisson
+  Processes.
+ In <em>International Conference on Machine Learning</em>, 2015.
+
+</li>
+
+<li><a name="john2018large"></a>
+
+S.&nbsp;John and J.&nbsp;Hensman.
+ Large-scale cox process inference using variational fourier features.
+ <em>International Conference on Machine Learning</em>, 2018.
+
+</li>
+
+<li><a name="aglietti2018efficient"></a>
+
+V.&nbsp;Aglietti, T.&nbsp;Damoulas, and E.&nbsp;Bonilla.
+ Efficient inference in multi-task cox process models.
+ <em>Artificial Intelligence and Statistics</em>, 2018.
 
 </li></ul>
