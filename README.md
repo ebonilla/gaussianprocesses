@@ -225,7 +225,6 @@ J.&nbsp;Hensman and N.&nbsp;D. Lawrence.
  Nested Variational Compression in Deep Gaussian Processes, Dec.
   2014.
  arxiv:1412.1370.
-[&nbsp;<a href="http://arxiv.org/abs/1412.1370">arXiv</a>&nbsp;]
 
 </li></ul>
 ### Convolutional Nets and Gaussian Processes
@@ -238,7 +237,6 @@ J.&nbsp;Hensman and N.&nbsp;D. Lawrence.
 V.&nbsp;Kumar, V.&nbsp;Singh, P.&nbsp;K. Srijith, and A.&nbsp;Damianou.
  Deep Gaussian Processes with Convolutional Kernels, June 2018.
  arXiv:1806.01655.
-[&nbsp;<a href="http://arxiv.org/abs/1806.01655">arXiv</a>&nbsp;]
 
 </li>
 
@@ -258,7 +256,6 @@ J.&nbsp;Bradshaw, Alexander, and Z.&nbsp;Ghahramani.
  Adversarial Examples, Uncertainty, and Transfer Testing Robustness
   in Gaussian Process Hybrid Deep Networks, July 2017.
  arXiv:1707.02476.
-[&nbsp;<a href="http://arxiv.org/abs/1707.02476">arXiv</a>&nbsp;]
 
 </li>
 
@@ -301,7 +298,6 @@ G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;Cunningham, P.&nbsp;Michiardi, and M.&nb
 F.&nbsp;Laumann, K.&nbsp;Shridhar, and A.&nbsp;L. Maurin.
  Bayesian Convolutional Neural Networks, June 2018.
  arXiv:1806.05978.
-[&nbsp;<a href="http://arxiv.org/abs/1806.05978">arXiv</a>&nbsp;]
 
 </li>
 
@@ -476,7 +472,6 @@ A.&nbsp;Dezfouli and E.&nbsp;V. Bonilla.
 E.&nbsp;V. Bonilla, K.&nbsp;Krauth, and A.&nbsp;Dezfouli.
  Generic Inference in Latent Gaussian Process Models.
  <em>arXiv e-prints</em>, page arXiv:1609.00577, Sep 2016.
-[&nbsp;<a href="http://arxiv.org/abs/1609.00577">arXiv</a>&nbsp;]
 
 </li>
 
@@ -505,6 +500,5 @@ R.&nbsp;Domingues, P.&nbsp;Michiardi, J.&nbsp;Zouaoui, and M.&nbsp;Filippone.
 
 Z.&nbsp;Dai, A.&nbsp;Damianou, J.&nbsp;Gonz&aacute;lez, and N.&nbsp;Lawrence.
  Variational Auto-encoded Deep Gaussian Processes, Feb. 2016.
-[&nbsp;<a href="http://arxiv.org/abs/1511.06455">arXiv</a>&nbsp;]
 
 </li></ul>

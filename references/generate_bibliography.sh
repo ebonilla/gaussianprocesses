@@ -1,6 +1,6 @@
 export TMPDIR=.
 
-bib2bib --remove pdf biblio.bib | bib2bib --remove http | bib2bib --remove url | bib2bib --remove doi | bib2bib --remove archiveprefix  >clean_biblio.bib
+bib2bib --remove pdf biblio.bib | bib2bib --remove http | bib2bib --remove url | bib2bib --remove doi | bib2bib --remove eprint  >clean_biblio.bib
 
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/bayesian_dnns_dgps -o html_pieces/bayesian_dnns_dgps clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/inference_dgps -o html_pieces/inference_dgps clean_biblio.bib
