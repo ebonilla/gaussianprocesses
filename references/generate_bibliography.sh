@@ -12,7 +12,23 @@ bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywo
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/unsupervised_gps_dgps -o html_pieces/unsupervised_gps_dgps clean_biblio.bib
 
 
-echo \* \[Bayesian Deep Nets and Deep Gaussian Processes\]\(\#bayesiandeepnetsanddeepgaussianprocesses\) >references.html
+echo "* [Bayesian Deep Nets and Deep Gaussian Processes](#bayesiandeepnetsanddeepgaussianprocesses)" >references.html
+echo "" >>references.html
+echo "* [Inference for Deep Gaussian Processes](#inferencefordeepgaussianprocesses)" >>references.html
+echo "" >>references.html
+echo "* [Convolutional Nets and Gaussian Processes](#convolutionalnetsandgaussianprocesses)" >>references.html
+echo "" >>references.html
+echo "* [Bayesian Convolutional Nets](#bayesianconvolutionalnets)" >>references.html
+echo "" >>references.html
+echo "* [Calibration of Bayesian Convolutional Nets](#calibrationofbayesianconvolutionalnets)" >>references.html
+echo "" >>references.html
+echo "* [Random Feature Expansions for Shallow and Deep Gaussian Processes](#randomfeatureexpansionsforshallowanddeepgaussianprocesses)" >>references.html
+echo "" >>references.html
+echo "* [Variational Inference](#variationalinference)" >>references.html
+echo "" >>references.html
+echo "* [Unsupervised learning with Deep Gaussian Processes](#unsupervisedlearningwithdeepgaussianprocesses)" >>references.html
+echo "" >>references.html
+echo "" >>references.html
 
 
 echo \#\#\# Bayesian Deep Nets and Deep Gaussian Processes >>references.html
@@ -35,7 +51,7 @@ echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/bayesian_convnets.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
 
-echo \#\#\# Calibration of \(Bayesian\) Convolutional Nets >>references.html
+echo \#\#\# Calibration of Bayesian Convolutional Nets >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/calibration_bayesian_convnets.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
