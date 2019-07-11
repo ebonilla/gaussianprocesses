@@ -516,7 +516,7 @@ M.&nbsp;Titsias.
 <li><a name="krauth-et-al-uai-2017"></a>
 
 K.&nbsp;Krauth, E.&nbsp;V. Bonilla, K.&nbsp;Cutajar, and M.&nbsp;Filippone.
- AutoGP: Exploring the capabilities and limitations of gaussian
+ AutoGP: Exploring the capabilities and limitations of Gaussian
   process models.
  In <em>Uncertainty in Artificial Intelligence</em>, 2017.
 
@@ -620,7 +620,7 @@ D.&nbsp;R. Jones.
 <li><a name="snoek2012practical"></a>
 
 J.&nbsp;Snoek, H.&nbsp;Larochelle, and R.&nbsp;P. Adams.
- Practical bayesian optimization of machine learning algorithms.
+ Practical Bayesian optimization of machine learning algorithms.
  In <em>Advances in neural information processing systems</em>, pages
   2951--2959, 2012.
 
@@ -629,7 +629,7 @@ J.&nbsp;Snoek, H.&nbsp;Larochelle, and R.&nbsp;P. Adams.
 <li><a name="chu2005preference"></a>
 
 W.&nbsp;Chu and Z.&nbsp;Ghahramani.
- Preference learning with gaussian processes.
+ Preference learning with Gaussian processes.
  In <em>Proceedings of the 22nd international conference on Machine
   learning</em>, pages 137--144. ACM, 2005.
 
@@ -638,7 +638,7 @@ W.&nbsp;Chu and Z.&nbsp;Ghahramani.
 <li><a name="swersky2013multi"></a>
 
 K.&nbsp;Swersky, J.&nbsp;Snoek, and R.&nbsp;P. Adams.
- Multi-task bayesian optimization.
+ Multi-task Bayesian optimization.
  In <em>Advances in neural information processing systems</em>, pages
   2004--2012, 2013.
 
@@ -686,7 +686,7 @@ Z.&nbsp;Dai, A.&nbsp;Damianou, J.&nbsp;Gonz&aacute;lez, and N.&nbsp;Lawrence.
 <li><a name="blomqvist2018deep"></a>
 
 K.&nbsp;Blomqvist, S.&nbsp;Kaski, and M.&nbsp;Heinonen.
- Deep convolutional gaussian processes.
+ Deep convolutional Gaussian processes.
  <em>arXiv preprint arXiv:1810.03052</em>, 2018.
 
 </li>
@@ -735,7 +735,7 @@ M.&nbsp;Kuss and C.&nbsp;E. Rasmussen.
 <li><a name="engel2005reinforcement"></a>
 
 Y.&nbsp;Engel, S.&nbsp;Mannor, and R.&nbsp;Meir.
- Reinforcement learning with gaussian processes.
+ Reinforcement learning with Gaussian processes.
  In <em>Proceedings of the 22nd international conference on Machine
   learning</em>, pages 201--208. ACM, 2005.
 
@@ -753,7 +753,7 @@ M.&nbsp;Deisenroth and C.&nbsp;E. Rasmussen.
 <li><a name="martin2018recursive"></a>
 
 J.&nbsp;Martin and B.&nbsp;Englot.
- Recursive sparse pseudo-input gaussian process sarsa.
+ Recursive sparse pseudo-input Gaussian process sarsa.
  <em>arXiv preprint arXiv:1811.07201</em>, 2018.
 
 </li>
@@ -761,8 +761,8 @@ J.&nbsp;Martin and B.&nbsp;Englot.
 <li><a name="adams2009tractable"></a>
 
 R.&nbsp;P. Adams, I.&nbsp;Murray, and D.&nbsp;J. MacKay.
- Tractable nonparametric bayesian inference in poisson processes with
-  gaussian process intensities.
+ Tractable nonparametric Bayesian inference in poisson processes
+  with Gaussian process intensities.
  In <em>Proceedings of the 26th Annual International Conference on
   Machine Learning</em>, pages 9--16. ACM, 2009.
 
