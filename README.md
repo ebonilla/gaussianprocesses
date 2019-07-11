@@ -98,8 +98,8 @@ We would like to thank Simone Rossi and Jonas Wacker for their help in preparing
 
 <li><a name="Matthews18"></a>
 
-De, J.&nbsp;Hron, M.&nbsp;Rowland, R.&nbsp;E. Turner, and Z.&nbsp;Ghahramani.
- Gaussian Process Behaviour in Wide Deep Neural Networks.
+A.&nbsp;G. de&nbsp;G.&nbsp;Matthews, J.&nbsp;Hron, M.&nbsp;Rowland, R.&nbsp;E. Turner, and Z.&nbsp;Ghahramani.
+ Gaussian process behaviour in wide deep neural networks.
  In <em>International Conference on Learning Representations</em>, 2018.
 
 </li>
@@ -177,9 +177,10 @@ M.&nbsp;D. Hoffman.
 
 M.&nbsp;Havasi, J.&nbsp;M. Hern&aacute;ndez-Lobato, and J.&nbsp;J. Murillo-Fuentes.
  Inference in Deep Gaussian Processes using Stochastic Gradient
-  Hamiltonian Monte Carlo, June 2018.
- arXiv:1806.05490.
-[&nbsp;<a href="http://arxiv.org/abs/1806.05490">arXiv</a>&nbsp;]
+  Hamiltonian Monte Carlo.
+ In S.&nbsp;Bengio, H.&nbsp;Wallach, H.&nbsp;Larochelle, K.&nbsp;Grauman, N.&nbsp;Cesa-Bianchi,
+  and R.&nbsp;Garnett, editors, <em>Advances in Neural Information Processing
+  Systems 31</em>, pages 7506--7516. Curran Associates, Inc., 2018.
 
 </li>
 
@@ -230,15 +231,6 @@ J.&nbsp;Hensman and N.&nbsp;D. Lawrence.
 <ul>
 
 
-
-<li><a name="Tran18"></a>
-
-G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;P. Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
- Calibrating Deep Convolutional Gaussian Processes, May 2018.
- arXiv:1805.10522.
-[&nbsp;<a href="http://arxiv.org/abs/1805.10522">arXiv</a>&nbsp;]
-
-</li>
 
 <li><a name="Kumar18"></a>
 
@@ -293,6 +285,16 @@ A.&nbsp;G. Wilson, Z.&nbsp;Hu, R.&nbsp;R. Salakhutdinov, and E.&nbsp;P. Xing.
 
 
 
+<li><a name="Tran19"></a>
+
+G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
+ Calibrating Deep Convolutional Gaussian Processes.
+ In K.&nbsp;Chaudhuri and M.&nbsp;Sugiyama, editors, <em>Proceedings of Machine
+  Learning Research</em>, volume&nbsp;89 of <em>Proceedings of Machine Learning
+  Research</em>, pages 1554--1563. PMLR, 16--18 Apr 2019.
+
+</li>
+
 <li><a name="Laumann18"></a>
 
 F.&nbsp;Laumann, K.&nbsp;Shridhar, and A.&nbsp;L. Maurin.
@@ -326,12 +328,13 @@ Y.&nbsp;Gal and Z.&nbsp;Ghahramani.
 
 
 
-<li><a name="Tran18"></a>
+<li><a name="Tran19"></a>
 
-G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;P. Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
- Calibrating Deep Convolutional Gaussian Processes, May 2018.
- arXiv:1805.10522.
-[&nbsp;<a href="http://arxiv.org/abs/1805.10522">arXiv</a>&nbsp;]
+G.-L. Tran, E.&nbsp;V. Bonilla, J.&nbsp;Cunningham, P.&nbsp;Michiardi, and M.&nbsp;Filippone.
+ Calibrating Deep Convolutional Gaussian Processes.
+ In K.&nbsp;Chaudhuri and M.&nbsp;Sugiyama, editors, <em>Proceedings of Machine
+  Learning Research</em>, volume&nbsp;89 of <em>Proceedings of Machine Learning
+  Research</em>, pages 1554--1563. PMLR, 16--18 Apr 2019.
 
 </li>
 

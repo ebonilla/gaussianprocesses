@@ -14,33 +14,25 @@
     year = {2017}
 }
 
-@misc{Tran18,
-    abstract = {{The wide adoption of Convolutional Neural Networks (CNNs) in applications
-where decision-making under uncertainty is fundamental, has brought a great
-deal of attention to the ability of these models to accurately quantify the
-uncertainty in their predictions. Previous work on combining CNNs with Gaussian
-processes (GPs) has been developed under the assumption that the predictive
-probabilities of these models are well-calibrated. In this paper we show that,
-in fact, current combinations of CNNs and GPs are miscalibrated. We proposes a
-novel combination that considerably outperforms previous approaches on this
-aspect, while achieving state-of-the-art performance on image classification
-tasks.}},
-    archivePrefix = {arXiv},
-    author = {Tran, Gia-Lac and Bonilla, Edwin V. and Cunningham, John P. and Michiardi, Pietro and Filippone, Maurizio},
-    citeulike-article-id = {14629537},
-    citeulike-linkout-0 = {http://arxiv.org/abs/1805.10522},
-    citeulike-linkout-1 = {http://arxiv.org/pdf/1805.10522},
-    day = {26},
-    eprint = {1805.10522},
-    keywords = {deep\_learning},
-    month = may,
-    note = {arXiv:1805.10522},
-    posted-at = {2018-08-27 11:05:37},
-    priority = {2},
-    title = {{Calibrating Deep Convolutional Gaussian Processes}},
-    url = {http://arxiv.org/abs/1805.10522},
-    year = {2018}
+
+@InProceedings{Tran19,
+  title = 	 {{Calibrating Deep Convolutional Gaussian Processes}},
+  author = 	 {Tran, Gia-Lac and Bonilla, Edwin V. and Cunningham, John and Michiardi, Pietro and Filippone, Maurizio},
+  booktitle = 	 {Proceedings of Machine Learning Research},
+  pages = 	 {1554--1563},
+  year = 	 {2019},
+  editor = 	 {Chaudhuri, Kamalika and Sugiyama, Masashi},
+  volume = 	 {89},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {},
+  month = 	 {16--18 Apr},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v89/tran19a/tran19a.pdf},
+  url = 	 {http://proceedings.mlr.press/v89/tran19a.html},
+  abstract = 	 {The wide adoption of Convolutional Neural Networks CNNs in applications where decision-making under uncertainty is fundamental, has brought a great deal of attention to the ability of these models to accurately quantify the uncertainty in their predictions. Previous work on combining CNNs with Gaussian processes GPs has been developed under the assumption that the predictive probabilities of these models are well-calibrated. In this paper we show that, in fact, current combinations of CNNs and GPs are miscalibrated.  We proposes a novel combination that considerably outperforms previous approaches on this aspect, while achieving state-of-the-art performance on image classification tasks.}
 }
+
+
 
 @misc{Laumann18,
     abstract = {{We propose a Bayesian convolutional neural network built upon Bayes by
@@ -178,49 +170,26 @@ GPs with a comparable number of parameters.}},
     year = {2017}
 }
 
-@misc{Havasi18,
-    abstract = {{Deep Gaussian Processes (DGPs) are hierarchical generalizations of Gaussian
-Processes that combine well calibrated uncertainty estimates with the high
-flexibility of multilayer models. One of the biggest challenges with these
-models is that exact inference is intractable. The current state-of-the-art
-inference method, Variational Inference (VI), employs a Gaussian approximation
-to the posterior distribution. This can be a potentially poor unimodal
-approximation of the generally multimodal posterior. In this work, we provide
-evidence for the non-Gaussian nature of the posterior and we apply the
-Stochastic Gradient Hamiltonian Monte Carlo method to directly sample from it.
-To efficiently optimize the hyperparameters, we introduce the Moving Window
-MCEM algorithm. This results in significantly better predictions at a lower
-computational cost than its VI counterpart. Thus our method establishes a new
-state-of-the-art for inference in DGPs.}},
-    archivePrefix = {arXiv},
-    author = {Havasi, Marton and Hern\'{a}ndez-Lobato, Jos\'{e} M. and Murillo-Fuentes, Juan J.},
-    citeulike-article-id = {14629529},
-    citeulike-linkout-0 = {http://arxiv.org/abs/1806.05490},
-    citeulike-linkout-1 = {http://arxiv.org/pdf/1806.05490},
-    day = {19},
-    eprint = {1806.05490},
-    keywords = {deep\_learning},
-    month = jun,
-    note = {arXiv:1806.05490},
-    posted-at = {2018-08-27 10:44:02},
-    priority = {2},
-    title = {{Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo}},
-    url = {http://arxiv.org/abs/1806.05490},
-    year = {2018}
+@incollection{Havasi18,
+title = {{Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo}},
+author = {Havasi, Marton and Hern\'{a}ndez-Lobato, Jos\'{e} Miguel and Murillo-Fuentes, Juan Jos\'{e}},
+booktitle = {Advances in Neural Information Processing Systems 31},
+editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+pages = {7506--7516},
+year = {2018},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/7979-inference-in-deep-gaussian-processes-using-stochastic-gradient-hamiltonian-monte-carlo.pdf}
 }
 
+
 @inproceedings{Matthews18,
-    author = {De and Hron, Jiri and Rowland, Mark and Turner, Richard E. and Ghahramani, Zoubin},
-    booktitle = {International Conference on Learning Representations},
-    citeulike-article-id = {14629528},
-    citeulike-linkout-0 = {https://openreview.net/forum?id=H1-nGgWC-},
-    keywords = {deep\_learning},
-    posted-at = {2018-08-27 10:39:00},
-    priority = {2},
-    title = {{Gaussian Process Behaviour in Wide Deep Neural Networks}},
-    url = {https://openreview.net/forum?id=H1-nGgWC-},
-    year = {2018}
+title={Gaussian Process Behaviour in Wide Deep Neural Networks},
+author={Alexander G. de G. Matthews and Jiri Hron and Mark Rowland and Richard E. Turner and Zoubin Ghahramani},
+booktitle={International Conference on Learning Representations},
+year={2018},
+url={https://openreview.net/forum?id=H1-nGgWC-},
 }
+
 
 @inproceedings{lee18,
     author = {Lee, Jaehoon and Sohl-dickstein, Jascha and Pennington, Jeffrey and Novak, Roman and Schoenholz, Sam and Bahri, Yasaman},
