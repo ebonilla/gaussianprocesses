@@ -9,6 +9,7 @@ bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywo
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/calibration_bayesian_convnets -o html_pieces/calibration_bayesian_convnets clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/random_features_gps_dgps -o html_pieces/random_features_gps_dgps clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/variational_inference -o html_pieces/variational_inference clean_biblio.bib
+bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/variational_inference_gps -o html_pieces/variational_inference_gps clean_biblio.bib
 bibtex2html -s abbrv -nokeys -noheader -nofooter -nodoc --no-abstract --no-keywords --nobibsource -citefile citefiles/unsupervised_gps_dgps -o html_pieces/unsupervised_gps_dgps clean_biblio.bib
 
 
@@ -46,6 +47,13 @@ echo \#\#\# Variational Inference >>references.html
 echo \<ul\> >>references.html
 perl -pe's|<p>|<li>|' html_pieces/variational_inference.html | perl -pe's|</p>|</li>|' >>references.html
 echo \<\/ul\> >>references.html
+
+echo \#\#\# Variational Inference for Gaussian Process Models>>references.html
+echo \<ul\> >>references.html
+perl -pe's|<p>|<li>|' html_pieces/variational_inference_gps.html | perl -pe's|</p>|</li>|' >>references.html
+echo \<\/ul\> >>references.html
+
+
 
 echo \#\#\# Unsupervised learning with Deep Gaussian Processes >>references.html
 echo \<ul\> >>references.html
