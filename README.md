@@ -463,25 +463,6 @@ A.&nbsp;Graves.
 
 
 
-<li><a name="Kingma14"></a>
-
-D.&nbsp;P. Kingma and M.&nbsp;Welling.
- Auto-Encoding Variational Bayes.
- In <em>Proceedings of the Second International Conference on
-  Learning Representations (ICLR 2014)</em>, Apr. 2014.
-
-</li>
-
-<li><a name="Graves11"></a>
-
-A.&nbsp;Graves.
- Practical Variational Inference for Neural Networks.
- In J.&nbsp;Shawe-Taylor, R.&nbsp;S. Zemel, P.&nbsp;L. Bartlett, F.&nbsp;Pereira, and
-  K.&nbsp;Q. Weinberger, editors, <em>Advances in Neural Information Processing
-  Systems 24</em>, pages 2348--2356. Curran Associates, Inc., 2011.
-
-</li>
-
 <li><a name="nguyen-bonilla-nips-2014"></a>
 
 T.&nbsp;V. Nguyen and E.&nbsp;V. Bonilla.
