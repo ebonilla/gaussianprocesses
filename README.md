@@ -224,6 +224,7 @@ A.&nbsp;C. Damianou and N.&nbsp;D. Lawrence.
 J.&nbsp;Hensman and N.&nbsp;D. Lawrence.
  Nested Variational Compression in Deep Gaussian Processes, Dec.
   2014.
+ arxiv:1412.1370.
 [&nbsp;<a href="http://arxiv.org/abs/1412.1370">arXiv</a>&nbsp;]
 
 </li></ul>
@@ -306,11 +307,9 @@ F.&nbsp;Laumann, K.&nbsp;Shridhar, and A.&nbsp;L. Maurin.
 
 <li><a name="Garriga-Alonso18"></a>
 
-A.&nbsp;Garriga-Alonso, L.&nbsp;Aitchison, and C.&nbsp;E. Rasmussen.
- Deep Convolutional Networks as shallow Gaussian Processes, Aug.
-  2018.
- arXiv:1808.05587.
-[&nbsp;<a href="http://arxiv.org/abs/1808.05587">arXiv</a>&nbsp;]
+A.&nbsp;Garriga-Alonso, C.&nbsp;E. Rasmussen, and L.&nbsp;Aitchison.
+ Deep Convolutional Networks as shallow Gaussian Processes.
+ In <em>International Conference on Learning Representations</em>, 2019.
 
 </li>
 

@@ -119,34 +119,14 @@ the effectiveness of the proposed approaches.}},
     year = {2018}
 }
 
-@misc{Garriga-Alonso18,
-    abstract = {{We show that the output of a (residual) convolutional neural network (CNN)
-with an appropriate prior over the weights and biases is a Gaussian process
-(GP) in the limit of infinitely many convolutional filters, extending similar
-results for dense networks. For a CNN, the equivalent kernel can be computed
-exactly and, unlike "deep kernels", has very few parameters: only the
-hyperparameters of the original CNN. Further, we show that this kernel has two
-properties that allow it to be computed efficiently; the cost of evaluating the
-kernel for a pair of images is similar to a single forward pass through the
-original CNN with only one filter per layer. The kernel equivalent to a
-32-layer ResNet obtains 0.84\% classification error on MNIST, a new record for
-GPs with a comparable number of parameters.}},
-    archivePrefix = {arXiv},
-    author = {Garriga-Alonso, Adri\`{a} and Aitchison, Laurence and Rasmussen, Carl E.},
-    citeulike-article-id = {14629532},
-    citeulike-linkout-0 = {http://arxiv.org/abs/1808.05587},
-    citeulike-linkout-1 = {http://arxiv.org/pdf/1808.05587},
-    day = {16},
-    eprint = {1808.05587},
-    keywords = {deep\_learning, gaussian\_processes},
-    month = aug,
-    note = {arXiv:1808.05587},
-    posted-at = {2018-08-27 10:52:35},
-    priority = {2},
-    title = {{Deep Convolutional Networks as shallow Gaussian Processes}},
-    url = {http://arxiv.org/abs/1808.05587},
-    year = {2018}
+@inproceedings{Garriga-Alonso18,
+title={{Deep Convolutional Networks as shallow Gaussian Processes}},
+author={Adrià Garriga-Alonso and Carl Edward Rasmussen and Laurence Aitchison},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=Bklfsi0cKm},
 }
+
 
 @inproceedings{Hoffman17,
     abstract = {{Deep latent Gaussian models are powerful and popular probabilistic models of high-dimensional data. These models are almost always fit using variational expectation-maximization, an approximation to true maximum-marginal-likelihood estimation. In this paper, we propose a different approach: rather than use a variational approximation (which produces biased gradient signals), we use Markov chain Monte Carlo (MCMC, which allows us to trade bias for computation). We find that our MCMC-based approach has several advantages: it yields higher held-out likelihoods, produces sharper images, and does not suffer from the variational overpruning effect. MCMC's additional computational overhead proves to be significant, but not prohibitive.}},
@@ -3079,6 +3059,7 @@ be easily parallelized or adapted for stochastic variational inference.}},
     priority = {2},
     title = {{Nested Variational Compression in Deep Gaussian Processes}},
     url = {http://arxiv.org/abs/1412.1370},
+    note = {arxiv:1412.1370},
     year = {2014}
 }
 
