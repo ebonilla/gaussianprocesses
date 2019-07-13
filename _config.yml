@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Tutorial on Gaussian Processes
+github:
+  is_project_page: false
