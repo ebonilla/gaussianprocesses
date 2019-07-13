@@ -63,12 +63,12 @@ In 2007, he was a Research Scholar with George Mason University, Fairfax, VA.
 
 ## Link to Slides
 
-* [Introduction](slides/introduction.pdf)
-* [Definition of Gaussian Processes](slides/gaussian_processes.pdf)
-* [Model Approximations](slides/model_approximations.pdf)
-* [Inference](slides/inference.pdf)
-* [Challenges](slides/challenges.pdf)
-* [Theory and Code](slides/theory_code.pdf)
+* [Introduction](slides/introduction.pdf){:target="_blank"}
+* [Definition of Gaussian Processes](slides/gaussian_processes.pdf){:target="_blank"}
+* [Model Approximations](slides/model_approximations.pdf){:target="_blank"}
+* [Inference](slides/inference.pdf){:target="_blank"}
+* [Challenges](slides/challenges.pdf){:target="_blank"}
+* [Theory and Code](slides/theory_code.pdf){:target="_blank"}
 
 
 
