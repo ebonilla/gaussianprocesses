@@ -75,9 +75,9 @@ In 2007, he was a Research Scholar with George Mason University, Fairfax, VA.
 
 ## Notebooks
 
-[Notebook Sampling from GP prior](notebooks/gp-priors.ipynb)
+[Notebook Sampling from GP prior](https://github.com/ebonilla/gaussianprocesses/blob/master/notebooks/gp-priors.ipynb){:target="_blank"}
 
-[Notebook on GP Regression](notebooks/gp-inference.ipynb)
+[Notebook on GP Regression](https://github.com/ebonilla/gaussianprocesses/blob/master/notebooks/gp-inference.ipynb){:target="_blank"}
 
 
 
